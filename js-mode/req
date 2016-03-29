@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: require
+# key: req
+# --
+let ${1:lib} = require('$0');
