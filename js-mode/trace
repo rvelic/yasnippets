@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: console.trace
+# key: tr
+# --
+console.trace();
