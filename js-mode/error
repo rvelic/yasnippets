@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: console.err
-# key: er
+# name: console.error
+# key: ce
 # --
 console.error(${1:'ERROR:'}, $0);

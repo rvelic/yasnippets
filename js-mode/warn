@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: console.warn
-# key: wa
+# key: cw
 # --
 console.warn(${1:'WARN:'}, $0);
